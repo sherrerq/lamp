@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to DevOps on AWS</title>
+	<title>Welcome to DevOps on AWS!</title>
 
 </head>
 <body>
