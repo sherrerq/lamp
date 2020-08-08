@@ -10,6 +10,7 @@
 		$Welcome = new Welcome();
 	?>
 	<h1><?php echo $welcome->greet() ?> </h1>
+        <h1>CI /CD</h1>
 </body>
 
 </html>
