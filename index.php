@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to Super DevOps on AWS!</title>
+	<title>Welcome to Super DevOps on AWS</title>
 
 </head>
 <body>
